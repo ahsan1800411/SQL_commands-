@@ -1,0 +1,1 @@
+UPDATE sales SET product_name= 'A Truck',volume=10009.34 WHERE id=13;

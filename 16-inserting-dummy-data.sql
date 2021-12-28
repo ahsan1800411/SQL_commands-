@@ -1,0 +1,1 @@
+INSERT INTO sales(date_fullfilled,customer_name,product_name,volume,is_recurring,is_disputed) VALUES (NULL,'Yahoo Inc','SmartPhones',144.2,FALSE,FALSE),('2021-04-12','Ebay','Gadgets',34444.4,TRUE,FALSE)
